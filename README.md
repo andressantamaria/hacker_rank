@@ -1,2 +1,2 @@
 # hacker_rank
-These are muy personal solutions for hackerrank.com 30 days of code challenge.
+These are my personal solutions for hackerrank.com 30 days of code challenge.
